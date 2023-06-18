@@ -1,0 +1,11 @@
+#header{
+    color: rebeccapurple;
+}
+#btn-submit{
+    background-color: rebeccapurple;
+    border: 0;
+    color: white;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+}
